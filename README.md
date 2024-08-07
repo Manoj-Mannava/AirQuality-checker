@@ -1,0 +1,2 @@
+# AirQuality-checker
+Mini project 
